@@ -1,0 +1,18 @@
+﻿Построение начато 04.12.2020 13:30:21.
+     1>Проект "C:\Users\ПК\Documents\Проекты\Проект4\Проект4\Проект4.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\VS 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Code.cpp
+         Code.cpp
+     1>c:\users\пк\documents\проекты\проект4\проект4\code.cpp(130): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\пк\documents\проекты\проект4\проект4\code.cpp(210): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\пк\documents\проекты\проект4\проект4\code.cpp(51): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+     1>c:\users\пк\documents\проекты\проект4\проект4\code.cpp(51): warning C4715: List<char>::operator[]: значение возвращается не при всех путях выполнения
+     1>c:\users\пк\documents\проекты\проект4\проект4\code.cpp(51): warning C4715: List<double>::operator[]: значение возвращается не при всех путях выполнения
+       Link:
+         D:\VS 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ПК\Documents\Проекты\Проект4\Debug\Проект4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ПК\Documents\Проекты\Проект4\Debug\Проект4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ПК\Documents\Проекты\Проект4\Debug\Проект4.lib" /MACHINE:X86 Debug\Code.obj
+         Проект4.vcxproj -> C:\Users\ПК\Documents\Проекты\Проект4\Debug\Проект4.exe
+     1>Построение проекта "C:\Users\ПК\Documents\Проекты\Проект4\Проект4\Проект4.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:54.36
